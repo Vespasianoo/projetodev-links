@@ -1,0 +1,2 @@
+fazer o social links com o layout antigo e add dark mode com switch ou pegando a preferencia 
+do usuario
